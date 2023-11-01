@@ -1,6 +1,7 @@
 # My projects dump
 
 Here I'll post my study, test or abandoned projects.
+It will be used for reference and to show my evolution.
 
 ## P001 - CSM(Culinária sob Metrica) Nest
 
